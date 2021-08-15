@@ -1,6 +1,6 @@
 package com.mayanlong.shardingsphere.mapper;
 
-import com.mayanlong.shardingsphere.model.Code;
+import com.mayanlong.shardingsphere.entity.Code;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Select;

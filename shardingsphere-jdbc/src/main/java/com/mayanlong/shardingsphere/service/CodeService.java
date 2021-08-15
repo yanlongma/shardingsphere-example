@@ -2,7 +2,7 @@ package com.mayanlong.shardingsphere.service;
 
 import com.mayanlong.shardingsphere.dto.CodeDto;
 import com.mayanlong.shardingsphere.mapper.CodeMapper;
-import com.mayanlong.shardingsphere.model.Code;
+import com.mayanlong.shardingsphere.entity.Code;
 import org.apache.shardingsphere.infra.hint.HintManager;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;

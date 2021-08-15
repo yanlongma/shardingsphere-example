@@ -1,4 +1,4 @@
-package com.mayanlong.shardingsphere.model;
+package com.mayanlong.shardingsphere.entity;
 
 import lombok.*;
 
